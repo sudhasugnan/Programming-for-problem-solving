@@ -2,4 +2,6 @@
 main()
 {
 printf("%d",5<<1);
+printf("%d",8<<1);
+
 }
